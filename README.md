@@ -1,2 +1,2 @@
 # cutno.ir
-This is my firest try to make a website
+This is my first try to make a website
